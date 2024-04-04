@@ -1,4 +1,4 @@
-# TagPet
+# React Web Todolist
 
 > App que visa solucionar os problemas do desafio 02 do edital de 2023. A aplicação busca oferecer as funções de cadastro de pet, aviso de desaparecimento, anúncio de adoção, denúncia de abandono de pets cadastrados.
 
